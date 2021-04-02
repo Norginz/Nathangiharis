@@ -1,0 +1,19 @@
+div {
+  font-size: 40px;
+}
+
+article img {
+  float: right;
+  width: 50%;
+  min-width: 100px;
+  max-width: 100px;
+}
+
+nav {
+  float: left;
+  width: 25%;
+}
+
+section {
+  margin-left: 25%;
+}
