@@ -1,0 +1,55 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #000b76;
+}
+
+.display-4 {
+  color: white;
+  padding-left: 7rem;
+  font-family: "Montserrat", sans-serif;
+  transition: 1s;
+}
+
+.lead {
+  color: white;
+  padding-left: 7.5rem;
+}
+
+.img-thumbnail {
+  margin-left: 10%;
+  position: relative;
+  margin-top: -6%;
+}
+
+.judulabout {
+  margin-left: 45%;
+  right: 500x;
+  position: relative;
+}
+
+.deskripsi {
+  margin-left: 45%;
+  position: absolute;
+  margin-top: 2%;
+  background-color: whitesmoke;
+  padding: 2%;
+  border-radius: 25px;
+}
+
+.Programawal {
+  position: absolute;
+  margin-left: 10%;
+  margin-top: 3%;
+}
+
+.listbaru {
+  position: absolute;
+  margin-left: 9%;
+  margin-top: 6%;
+}
+
+.videoyoutube1 {
+  position: absolute;
+  margin-left: 10%;
+  margin-top: 37%;
+}
